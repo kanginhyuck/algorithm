@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SWEA2025 {
 
-    static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int number = scanner.nextInt();
