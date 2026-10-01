@@ -2,7 +2,7 @@ package swea_java;
 
 import java.util.Scanner;
 
-public class Problem3 {
+public class SWEA1936 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
