@@ -11,7 +11,7 @@ public class SWEA2019 {
         int result = 1;
 
         for (int i = 0; i <= number; i++) {
-            System.out.println(result);
+            System.out.print(result + " ");
             result *= 2;
         }
     }

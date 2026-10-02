@@ -9,7 +9,7 @@ public class SWEA1545 {
         int number = scanner.nextInt();
 
         for (int i = number; i >= 0; i--) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
     }
 }
