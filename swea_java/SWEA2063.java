@@ -27,4 +27,4 @@ public class SWEA2063 {
         System.out.println(numbers[N / 2]);
     }
 }
-//다시 풀어야 함
+//다시 풀어야 함, 아직 배열을 어떻게 써야하는지 감이 안옴
