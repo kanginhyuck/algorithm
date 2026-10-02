@@ -24,6 +24,6 @@ public class SWEA2056 {
             } else {
                 System.out.println("#" + i + " " + year + "/" + month + "/" + day);
             }
-        }
+        }// 배열을 어떨 때 사용해야 하는지 잘 모르겠음
     }
 }
